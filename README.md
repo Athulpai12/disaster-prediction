@@ -1,6 +1,7 @@
 # disaster-prediction
 Recently we witnessed a lot of disasters in India and we were not ready for it.So further avoid such situations we need to predict to be prepared for such situations.So my idea deals with the prediction of natural disasters to be better prepared for it.
 So how would I doing it you ask below are the details :
+
 1)Bhuvan - It is a tailor made software by ISRO  detailing different events that have taken place in India and gives a satellite image of all the events that have taken place.Now these images contain a lot of data and can be used to predict a pattern with the direction wind and hurricanes effected place or fire and the amount of crop destruction or locations effected by Tsunami.
 Deep learning technique techniques(CNN and LSTM) can employed to dissect these time series data and get meaningful information out of it.
 
